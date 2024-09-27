@@ -79,7 +79,7 @@ newemail2@example.com:newpassword2
 
 ### proxies.txt
 
-If using proxies, list them in this format:
+List them in this format:
 
 ```
 http://user:pass@ip:port
