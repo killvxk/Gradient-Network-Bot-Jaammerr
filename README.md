@@ -30,8 +30,7 @@ Price: 120$
 
 1. Download the EXE file from the official source.
 2. Run the EXE file and complete the login process.
-3. The application will automatically bind to your PC (binding disappears upon closing all sessions).
-4. Prepare the necessary configuration files as outlined in the next section.
+3. Prepare the necessary configuration files as outlined in the next section.
 
 ## ⚙️ Configuration
 
