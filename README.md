@@ -96,6 +96,8 @@ http://user:pass:ip:port
 
 ## ⚠️ Important Notes
 
+!! To successfully close a session you need to use the exit button or press ctrl + c, otherwise the session will remain active
+
 - 🖥️ The Gradient Bot has support for 2 active sessions. You can run 2 versions on one PC, or 1 version on 2 PCs.
 - 📧 Verify that your email providers are correctly configured in the `imap_settings` section of `settings.yaml`.
 - 🧩 Maintain sufficient balance in your CapSolver account for uninterrupted captcha solving.
