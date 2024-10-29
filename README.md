@@ -8,7 +8,7 @@
 
 Gradient Bot is an advanced automation tool designed to streamline account registration and farming processes on Gradient Network. With its powerful features and user-friendly interface, it offers a seamless experience for users looking to maximize their efficiency on the platform.
 
-**Purchase: [https://t.me/gradient_network_bot](https://t.me/gradient_network_bot)**
+**Purchase: https://t.me/Jaammerr**
 
 **Price: $120**
 
